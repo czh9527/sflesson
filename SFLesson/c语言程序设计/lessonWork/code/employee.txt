@@ -1,0 +1,2 @@
+zgname:czh zgh:1 sex:M wage:123
+zgname:czx zgh:2 sex:M wage:234

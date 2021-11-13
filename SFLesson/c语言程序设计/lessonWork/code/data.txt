@@ -1,0 +1,2 @@
+zgname:czh wage:123
+zgname:czx wage:234
