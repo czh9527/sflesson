@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "exception": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "xstring": "cpp",
+        "cmath": "c",
+        "xlocnum": "c",
+        "iosfwd": "c",
+        "xlocale": "c"
+    }
+}
